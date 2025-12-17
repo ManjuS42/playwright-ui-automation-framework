@@ -211,9 +211,11 @@ This allows:
 
 ---
 
-## 👤 Author
+## 🧑‍💻 Author
 
-**Manju S**
-Senior Software Engineer in Test
+Automation Framework developed by **Manju S**
 
-🔗 GitHub: [https://github.com/ManjuS42]
+| Senior Software Development Engineer in Test (SDET) |
+
+| 🔗 GitHub: https://github.com/ManjuS42 |
+
