@@ -8,6 +8,7 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+
 *.iws
 *.iml
 *.ipr
@@ -35,4 +36,19 @@ build/
 .vscode/
 
 ### Mac OS ###
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Playwright / Allure
+allure-results/
+playwright-report/
+test-results/
+
+# OS
 .DS_Store
